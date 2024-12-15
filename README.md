@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AbdelfattahSamy
+- 👀 I’m interested in SAB ABAP
+- 🌱 I’m currently learning CPI Integration
